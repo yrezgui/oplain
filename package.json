@@ -1,0 +1,26 @@
+{
+  "name": "oplain",
+  "version": "0.0.0",
+  "description": "Read website pages offline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yrezgui/oplain.git"
+  },
+  "keywords": [
+    "oplain",
+    "offline",
+    "polymer"
+  ],
+  "author": "Yacine Rezgui <rezgui.y@gmail.com>",
+  "license": "Apache Licence v2",
+  "bugs": {
+    "url": "https://github.com/yrezgui/oplain/issues"
+  },
+  "dependencies": {
+    "node-readability": "~0.4.0"
+  }
+}
